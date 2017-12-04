@@ -1,0 +1,108 @@
+prodid,prodDescription,price1,price2,unitCost,prodtypeID,source,typeDescription,BUID,Name,Abbrev,Version,ExpirationDate,EffectiveDate,Product_sk
+,,,,,,,,,,,1,2200-01-01,1900-01-01,1
+1,Enumerator Polishing Equipment       ,165,142.5,135.4,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,2
+2,Planetesimal Manufacturing Equipment ,347.3,307,250,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,3
+3,Sortie Covers                        ,248.2,213.2,206.81,13,TPCE,Covers                 ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,4
+4,Miniaturizing Manufacturing Equipment,456.2,379.6,325,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,5
+5,Flake Photo Equipment                ,232.3,204.4,170,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,6
+6,Planetesimal Manufacturing Equipment ,347.3,307,285.51,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,7
+7,Bandage Manufacturing Equipment      ,298,267,234,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,8
+8,Septembers Manufacturing Equipment   ,584.3,523,517.75,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,9
+9,Defeated Tray Supplies               ,559.7,476.9,448.3,8,PEC,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,10
+10,Defeated Tray Supplies               ,559.7,476.9,448.29,8,TPCE,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,11
+11,Sailors Manufacturing Equipment      ,340.5,290.4,235,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,12
+12,Chromium Photo Equipment             ,565.5,457.5,326,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,13
+13,Coward Covers                        ,429.8,349,328.05,13,TPCE,Covers                 ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,14
+14,Engle Photo Chemicals                ,429.9,346.1,342.64,9,TPCE,Photo Chemicals        ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,15
+15,Syntax Polishing Equipment           ,226.7,190.9,123,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,16
+16,Insensitivity Manufacturing Equipment,200.7,180.4,117,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,17
+17,Optima Cleaning Supplies             ,288.4,255.5,242.75,5,TPCE,Cleaning Supplies      ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,18
+18,Miniaturizing Manufacturing Equipment,456.2,379.6,353.02,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,19
+19,Habitually Manufacturing Equipment   ,509.3,419.1,354,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,20
+20,Flake Photo Equipment                ,232.3,204.4,194.17,1,TPCE,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,21
+21,Denigrating Polishing Equipment      ,566,454.5,427.19,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,22
+22,Extinguisher Manufacturing Equipment ,120.4,98.4,65,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,23
+23,Occlusion Manufacturing Equipment    ,199.9,177.3,72,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,24
+24,Bandage Manufacturing Equipment      ,298,267,253.66,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,25
+25,Chalmers Polishing Equipment         ,289.2,242.6,223.2,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,26
+26,Subclasses Polishing Equipment       ,282.5,239,236.61,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,27
+27,Vastest Photo Equipment              ,498.1,442.3,294,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,28
+28,Palm Polishing Equipment             ,122.4,105.4,87,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,29
+29,Millimeters Flushing Chemicals       ,295.6,251.8,241.8,10,PEC,Flushing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,30
+30,Suing Manufacturing Equipment        ,482.2,426.7,329,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,31
+31,Bellowing Polishing Equipment        ,502.6,451.3,400,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,32
+32,Chartable Photo Equipment            ,410.2,347.4,312.67,1,TPCE,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,33
+33,Pervasively Manufacturing Equipment  ,374.1,334.9,303,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,34
+34,Sailors Manufacturing Equipment      ,340.5,290.4,278.81,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,35
+35,Chromium Photo Equipment             ,565.5,457.5,425.47,1,TPCE,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,36
+36,Bomber Photo Equipment               ,461.3,400.4,380.42,1,TPCE,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,37
+37,Concentrators Polishing Equipment    ,584.6,524.9,482.94,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,38
+38,Syntax Polishing Equipment           ,226.7,190.9,177.54,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,39
+39,Disallow Manufacturing Equipment     ,165.2,145.9,97,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,40
+40,Insensitivity Manufacturing Equipment,200.7,180.4,169.61,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,41
+41,Consideration Tray Supplies          ,172.6,146.8,139.51,8,TPCE,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,42
+42,Concentrators Polishing Equipment    ,584.6,524.9,472,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,43
+43,Bomber Photo Equipment               ,461.3,400.4,336,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,44
+44,Birthdays Manufacturing Equipment    ,196.6,173.2,161.05,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,45
+45,Slacking Jacks                       ,495,400,387.99,15,TPCE,Jacks                  ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,46
+46,Distantly Paper Supplies             ,518.5,436.1,418.61,6,TPCE,Paper Supplies         ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,47
+47,Significants Freezing Chemicals      ,141.6,113.2,104.18,11,TPCE,Freezing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,48
+48,Patriarchal Cleaning Supplies        ,351.5,284.8,264.82,5,TPCE,Cleaning Supplies      ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,49
+49,Visage Flushing Chemicals            ,567.8,507.6,466.96,10,TPCE,Flushing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,50
+50,Restarts Paper Supplies              ,524.4,448.3,425.92,6,TPCE,Paper Supplies         ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,51
+51,Reflection Lifts                     ,497.9,447.6,438.62,14,TPCE,Lifts                  ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,52
+52,Identical Freezing Chemicals         ,578.1,465.9,447.28,11,TPCE,Freezing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,53
+53,Ruffle Freezing Chemicals            ,476.4,394.9,379.12,11,TPCE,Freezing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,54
+54,Honeymoon Photo Chemicals            ,326.1,292.2,271.76,9,TPCE,Photo Chemicals        ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,55
+55,Bumblers Plastic Supplies            ,545.3,466.2,447.59,7,TPCE,Plastic Supplies       ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,56
+56,Allis Polishing Equipment            ,201.8,176.3,160.48,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,57
+57,South Tray Supplies                  ,241.3,205.1,203.05,8,TPCE,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,58
+58,Characterization Plastic Supplies    ,231.7,185.6,168.88,7,TPCE,Plastic Supplies       ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,59
+59,Tonnage Plastic Supplies             ,368.8,315.6,309.34,7,TPCE,Plastic Supplies       ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,60
+60,Habitually Manufacturing Equipment   ,509.3,419.1,394,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,61
+61,Courthouses Manufacturing Equipment  ,285.6,243.6,231.45,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,62
+62,Substances Flushing Chemicals        ,507.3,409.9,397.63,10,TPCE,Flushing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,63
+63,Weeks Polishing Equipment            ,198.8,174.2,168.95,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,64
+64,Berwick Fillers                      ,583.9,487.5,463.13,12,TPCE,Fillers                ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,65
+65,Extinguisher Manufacturing Equipment ,120.4,98.4,90.49,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,66
+66,Exemplar Freezing Chemicals          ,198.4,160.9,152.85,11,TPCE,Freezing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,67
+67,Occlusion Manufacturing Equipment    ,199.9,177.3,164.88,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,68
+68,Loaves Polishing Equipment           ,425.6,361.3,354.1,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,69
+69,Hits Tray Supplies                   ,439.5,359.1,341.14,8,TPCE,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,70
+70,Escape Manufacturing Equipment       ,584.4,523.6,507.89,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,71
+71,Simulations Photo Equipment          ,318.4,255.7,245.43,1,TPCE,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,72
+72,Anthem Tray Supplies                 ,134.9,112.4,109.02,8,TPCE,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,73
+73,Cosgrove Jacks                       ,298.9,267.8,254.4,15,TPCE,Jacks                  ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,74
+74,Flanker Fillers                      ,271.4,236.2,219.62,12,TPCE,Fillers                ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,75
+75,Deferrable Freezing Chemicals        ,145,124.4,113.24,11,TPCE,Freezing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,76
+76,Scrounge Jacks                       ,301.6,251.2,248.71,15,TPCE,Jacks                  ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,77
+77,Vastest Photo Equipment              ,498.1,442.3,420.19,1,TPCE,Photo Equipment        ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,78
+78,Measured Photo Chemicals             ,318.1,270.7,254.43,9,TPCE,Photo Chemicals        ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,79
+79,Siena Plastic Supplies               ,155,136.4,132.34,7,TPCE,Plastic Supplies       ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,80
+80,Temporally Plastic Supplies          ,477.5,408.3,371.54,7,TPCE,Plastic Supplies       ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,81
+81,Palm Polishing Equipment             ,122.4,105.4,103.27,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,82
+82,Numerals Covers                      ,102.9,89,83.64,13,TPCE,Covers                 ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,83
+83,Horses Lifts                         ,487.3,402.5,366.28,14,TPCE,Lifts                  ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,84
+84,Unjust Paper Supplies                ,222.5,182.2,176.74,6,TPCE,Paper Supplies         ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,85
+85,Disallow Manufacturing Equipment     ,165.2,145.9,144.45,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,86
+86,Soya Cleaning Supplies               ,406.9,345.9,345.89,5,TPCE,Cleaning Supplies      ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,87
+87,Suing Manufacturing Equipment        ,482.2,426.7,401.11,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,88
+88,Vestiges Tray Supplies               ,231.4,192.1,186.34,8,TPCE,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,89
+89,Travel Paper Supplies                ,129.8,108.8,103.37,6,TPCE,Paper Supplies         ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,90
+90,Curiouser Cleaning Supplies          ,419.4,364.4,338.91,5,TPCE,Cleaning Supplies      ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,91
+91,Scribble Plastic Supplies            ,492.4,405.7,397.63,7,TPCE,Plastic Supplies       ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,92
+92,Behind Tray Supplies                 ,166.7,139,129.26,8,TPCE,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,93
+93,Bellowing Polishing Equipment        ,502.6,451.3,446.8,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,94
+94,Beliefs Freezing Chemicals           ,566.6,483.9,454.88,11,TPCE,Freezing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,95
+95,Duplicator Polishing Equipment       ,544.3,465.4,432.78,3,TPCE,Polishing Equipment    ,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,96
+96,Drafty Cleaning Supplies             ,107.1,92.7,88.96,5,TPCE,Cleaning Supplies      ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,97
+97,Stickiest Paper Supplies             ,575.9,502.8,467.59,6,TPCE,Paper Supplies         ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,98
+98,Barrels Flushing Chemicals           ,135.1,116.6,108.43,10,TPCE,Flushing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,99
+99,Richards Freezing Chemicals          ,529.4,475.4,470.61,11,TPCE,Freezing Chemicals     ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,100
+100,Pervasively Manufacturing Equipment  ,374.1,334.9,308.07,2,TPCE,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,101
+101,Optima Cleaning Supplies             ,288.4,255.5,242.75,5,TPCW,Cleaning Supplies      ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,102
+102,Measured Photo Chemicals             ,318.1,270.7,254.43,9,TPCW,Photo Chemicals        ,C        ,Chemicals           ,Chemicals,1,2200-01-01,1900-01-01,103
+103,Whale Lifts                          ,493.4,406.8,385.43,14,TPCW,Lifts                  ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,104
+104,LCARS Covers                         ,289.4,231.4,211.76,13,TPCW,Covers                 ,D        ,Miscellaneous       ,Miscellan,1,2200-01-01,1900-01-01,105
+105,Just Paper Supplies                  ,278.6,201.3,192.67,6,TPCW,Paper Supplies         ,B        ,Disposable Supplies ,Supplies ,1,2200-01-01,1900-01-01,106
+106,Escape Manufacturing Equipment       ,584.4,523.6,507.89,2,TPCW,Manufacturing Equipment,A        ,Processing Equipment,Equipment,1,2200-01-01,1900-01-01,107

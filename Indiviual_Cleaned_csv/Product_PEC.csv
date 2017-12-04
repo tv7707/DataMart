@@ -1,0 +1,44 @@
+prodid,prodDescription,price1,price2,unitCost,prodtypeID,Source,typeDescription,BUID,NAME,ABBREV,supplierName
+1,Enumerator Polishing Equipment       ,165,142.5,120,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+2,Planetesimal Manufacturing Equipment ,347.3,307,250,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+3,Tailor Jacks                         ,509.8,429.7,135.4,15,PEC,Jacks                  ,D        ,Miscellaneous       ,Miscellan,TPC West    
+4,Miniaturizing Manufacturing Equipment,456.2,379.6,325,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+5,Flake Photo Equipment                ,232.3,204.4,170,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,
+6,Denigrating Polishing Equipment      ,566,454.5,402,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+7,Bandage Manufacturing Equipment      ,298,267,234,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+8,Chalmers Polishing Equipment         ,289.2,242.6,215,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+9,Defeated Tray Supplies               ,559.7,476.9,448.3,8,PEC,Tray Supplies          ,B        ,Disposable Supplies ,Supplies ,TPC West    
+10,Chartable Photo Equipment            ,410.2,347.4,295,9,PEC,Photo Chemicals        ,C        ,Chemicals           ,Chemicals,
+11,Sailors Manufacturing Equipment      ,340.5,290.4,235,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+12,Chromium Photo Equipment             ,565.5,457.5,326,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,
+13,Coward Covers                        ,429.8,349,328.05,13,PEC,Covers                 ,D        ,Miscellaneous       ,Miscellan,TPC East    
+14,Travelings Photo Chemicals           ,274.4,242,342.64,9,PEC,Photo Chemicals        ,C        ,Chemicals           ,Chemicals,TPC West    
+15,Syntax Polishing Equipment           ,226.7,190.9,123,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+16,Insensitivity Manufacturing Equipment,200.7,180.4,117,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+17,Sortie Covers                        ,248.2,213.2,206.81,13,PEC,Covers                 ,D        ,Miscellaneous       ,Miscellan,TPC East    
+18,Allis Polishing Equipment            ,201.8,176.3,112,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+19,Habitually Manufacturing Equipment   ,509.3,419.1,354,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+20,Courthouses Manufacturing Equipment  ,285.6,243.6,182,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+21,Weeks Polishing Equipment            ,198.8,174.2,151,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+22,Extinguisher Manufacturing Equipment ,120.4,98.4,65,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+23,Occlusion Manufacturing Equipment    ,199.9,177.3,72,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+24,Loaves Polishing Equipment           ,425.6,361.3,241,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+25,Automobiles Fillers                  ,283.8,227.6,463.13,12,PEC,Fillers                ,D        ,Miscellaneous       ,Miscellan,TPC East    
+26,Simulations Photo Equipment          ,318.4,255.7,193,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,
+27,Vastest Photo Equipment              ,498.1,442.3,294,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,
+28,Palm Polishing Equipment             ,122.4,105.4,87,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+29,Millimeters Flushing Chemicals       ,295.6,251.8,241.8,10,PEC,Flushing Chemicals     ,C        ,Chemicals           ,Chemicals,TPC East    
+30,Suing Manufacturing Equipment        ,482.2,426.7,329,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+31,Bellowing Polishing Equipment        ,502.6,451.3,400,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+32,Embodying Cleaning Supplies          ,250.9,213.5,294,5,PEC,Cleaning Supplies      ,B        ,Disposable Supplies ,Supplies ,TPC West    
+33,Pervasively Manufacturing Equipment  ,374.1,334.9,303,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+34,Septembers Manufacturing Equipment   ,584.3,523,217,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+35,Birthdays Manufacturing Equipment    ,196.6,173.2,115,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+36,Duplicator Polishing Equipment       ,544.3,465.4,409,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+37,Escape Manufacturing Equipment       ,584.4,523.6,463,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+38,Commendation Fillers                 ,436.3,380,219.62,12,PEC,Fillers                ,D        ,Miscellaneous       ,Miscellan,TPC West    
+39,Disallow Manufacturing Equipment     ,165.2,145.9,97,2,PEC,Manufacturing Equipment,A        ,Processing Equipment,Equipment,
+40,Subclasses Polishing Equipment       ,282.5,239,210,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+41,Sulkiness Covers                     ,354.3,289.8,328.05,13,PEC,Covers                 ,D        ,Miscellaneous       ,Miscellan,TPC East    
+42,Concentrators Polishing Equipment    ,584.6,524.9,472,3,PEC,Polishing Equipment    ,A        ,Processing Equipment,Equipment,
+43,Bomber Photo Equipment               ,461.3,400.4,336,1,PEC,Photo Equipment        ,A        ,Processing Equipment,Equipment,

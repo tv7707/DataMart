@@ -1,0 +1,41 @@
+CUSTID,NAME,ADDR1,ADDR2,CITY,STATE,ZIP,TYPENAME,SOURCE,CUSTTYPEID
+3,Baxter May                  ,,796-2366 Vel Avenue,Meriden         ,FL,58328-0000,Commercial       ,PEC,C
+6,Raphael Allison             ,,734-2598 Sed Avenue,La Crosse       ,HI,58702-0000,Commercial       ,PEC,C
+9,The Product Company (East)  ,,20021 Barnes Road,Stratford       ,NY,13470-0000,Commercial       ,PEC,C
+11,Austin Ferrell              ,,8666 Justo Road,Pullman         ,PA,55979-0000,Commercial       ,PEC,C
+14,Serrano                     ,,7212 Eleifend Street,Princeton       ,KY,66785-0000,Commercial       ,PEC,C
+15,Colton Maldonado            ,,1869 Leo Road,Cedar Rapids    ,SD,97640-0000,Commercial       ,PEC,C
+16,Googol                      ,,5453 Dictum Avenue,Jenks           ,LA,96393-0000,Commercial       ,PEC,C
+20,Pewter Gym                  ,,9028 Non Street,Sandy           ,FL,87202-0000,Commercial       ,PEC,C
+27,Clare Baird                 ,,6152 Auctor,Wilson          ,MS,29338-0000,Commercial       ,PEC,C
+29,Blevins                     ,,2571 Donec Avenue,Winooski        ,SD,65512-0000,Commercial       ,PEC,C
+30,Knox Reid                   ,,500 Eu,Pass Christian  ,WY,35949-0000,Commercial       ,PEC,C
+32,Ferengi Treasures           ,,716-6837 Vulputate Avenue,Paramount       ,NY,35644-0000,Commercial       ,PEC,C
+33,Tallulah                    ,,3376 Aliquet Street,Batavia         ,NM,50742-0000,Commercial       ,PEC,C
+34,The Product Company (West)  ,,21 E Bullard Avenue,Fresno          ,CA,93710-0000,Commercial       ,PEC,C
+1,Haynes                      ,,2920 Auctor,Moraga          ,AZ,70314-0000,Education        ,PEC,E
+7,Martin Donaldson            ,,2704 At Road,Gardner         ,GA,31421-0000,Education        ,PEC,E
+18,Melvin House                ,,8371 Nullam Road,Isle of Palms   ,ME,89644-0000,Education        ,PEC,E
+19,Emerson Electric Company    ,,1792 Squash Drive,South Texarkana ,TX,75501-0000,Education        ,PEC,E
+21,Hop Adams                   ,,704 Nisl Road,Sun Valley      ,NH,84458-0000,Education        ,PEC,E
+22,Xavier Harmon               ,,2285 Ante Street,Farmington      ,WV,16456-0000,Education        ,PEC,E
+28,Schultz Learning            ,,8542 Quis Street,Spartanburg     ,ND,73217-0000,Education        ,PEC,E
+31,Starfleet Academy           ,,3061 Donec Avenue,Canandaigua     ,UT,75963-0000,Education        ,PEC,E
+38,Firstfed America Ban Corpora,,5656 Settler Street,Ward Prairie    ,TX,75840-0000,Education        ,PEC,E
+39,Ronan French                ,,8773 Feugiat Road,Gary            ,WA,17387-0000,Education        ,PEC,E
+2,Rudyard-Knapp               ,,9261 Nulla Street,Sault Ste. Marie,LA,94298-0000,State/Local Govt ,PEC,S
+4,Maya Brewer                 ,P.O. Box 825,,Union City      ,ND,82051-0000,State/Local Govt ,PEC,S
+5,Mullins Inc                 ,,4009 Ornare Road,Birmingham      ,NE,59509-0000,State/Local Govt ,PEC,S
+10,Hammett Farley              ,,1668 In Street,Yonkers         ,AK,18651-0000,State/Local Govt ,PEC,S
+12,Cain                        ,,1116 Augue Street,Warwick         ,DC,38450-0000,State/Local Govt ,PEC,S
+25,Atkins                      ,,4607 Risus Road,Waukegan        ,NC,43147-0000,State/Local Govt ,PEC,S
+37,Beverly Equipment           ,,7581 Quisque Street,Bloomington     ,HI,88440-0000,State/Local Govt ,PEC,S
+40,Zena Machines               ,,1277 Hendrerit Avenue,San Juan        ,WA,07066-0000,State/Local Govt ,PEC,S
+8,Gemma Castro                ,,9101 Duis Street,Passaic         ,VT,40926-0000,US Govt          ,PEC,F
+13,Knight                      ,,765 Eget Avenue,Eureka          ,FL,57500-0000,US Govt          ,PEC,F
+17,Mallory Lynch               ,,974 Nisl Road,Washington      ,ME,15623-0000,US Govt          ,PEC,F
+23,Cross                       ,,112 In Road,Opelousas       ,GA,43882-0000,US Govt          ,PEC,F
+24,Martinez Disposables        ,,5331 Nunc Avenue,Tucson          ,DC,79991-0000,US Govt          ,PEC,F
+26,Dakota Mills                ,,7442 Amet Avenue,Syracuse        ,DE,56656-0000,US Govt          ,PEC,F
+35,Ann Lee                     ,,3845 Nunc Road,Merizo          ,GA,10764-0000,US Govt          ,PEC,F
+36,Kuame Barnes                ,,8757 Tincidunt Road,Lahaina         ,RI,60529-0000,US Govt          ,PEC,F

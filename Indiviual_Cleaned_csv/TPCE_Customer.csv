@@ -1,0 +1,42 @@
+CUSTID,NAME,ADDR1,ADDR2,CITY,STATE,ZIP,CUSTTYPEID,SOURCE,CUSTTYPEID_1,TYPENAME
+1,Room Plus Inc                            ,Suite 836  ,6037 Ecuadorian Street     ,Clinton                  ,MI  ,49236-0000,C  ,TPCE,C ,Commercial          
+11,Synaptic Pharmaceutical                  ,           ,8072 Powerless Street      ,Bridgeport               ,IL  ,62417-0000,C  ,TPCE,C ,Commercial          
+15,Railamerica Inc                          ,           ,576 Stew Turnpike          ,Mans De Navarro          ,PR  ,00778-0000,C  ,TPCE,C ,Commercial          
+16,Meridian Resources                       ,Dept #804  ,1977 Symbiotic Turnpike    ,Fall River               ,MA  ,02724-0000,C  ,TPCE,C ,Commercial          
+33,Polymer Group                            ,Suite 204  ,11368 Harder Drive         ,Maidstone                ,VT  ,05905-0000,C  ,TPCE,C ,Commercial          
+39,Pricellular                              ,Dept #5    ,10947 Eagle Street         ,Lisbon Falls             ,ME  ,04252-0000,C  ,TPCE,C ,Commercial          
+40,Processing Equipment                     ,Dept #2    ,29843 Klingon Road         ,Naperville               ,IL  ,60563-0000,C  ,TPCE,C ,Commercial          
+2,Motts Holdings                           ,           ,1618 Greenland Street      ,Tallahassee              ,FL  ,32304-0000,E  ,TPCE,E ,Education           
+3,Beckman Coulter                          ,           ,5841 Pervades Drive        ,Fairfax                  ,VA  ,22035-0000,E  ,TPCE,E ,Education           
+5,Sterling Financial                       ,Dept #505  ,7258 Meriting Avenue       ,Portland                 ,OR  ,97201-0000,E  ,TPCE,E ,Education           
+7,Fedders                                  ,Dept #520  ,3311 Blatantly Circle      ,Santa Fe Springs         ,CA  ,90670-0000,E  ,TPCE,E ,Education           
+8,United Healthcare                        ,Dept #855  ,675 Hordes Turnpike        ,Malaga                   ,NM  ,88263-0000,E  ,TPCE,E ,Education           
+24,Helpmate Robotics Inc                    ,Suite 213  ,9711 Writers Turnpike      ,Saint Cloud              ,WI  ,53079-0000,E  ,TPCE,E ,Education           
+26,Firstfed America Ban                     ,Dept #851  ,5656 Settler Street        ,Ward Prairie             ,TX  ,75840-0000,E  ,TPCE,E ,Education           
+34,Emerson Electric Company           ,           ,1792 Squash Drive          ,South Texarkana          ,TX  ,75501-0000,E  ,TPCE,E ,Education           
+37,Televideo                                ,Dept #793  ,939 Publishers Turnpike    ,Fort Hood                ,TX  ,76544-0000,E  ,TPCE,E ,Education           
+0,Specialty Teleconstructors Inc           ,           ,1570 Hordes Drive          ,Columbia                 ,SC  ,29260-0000,F  ,TPCE,F ,US Govt             
+4,Magainin Pharmaceuticals Inc             ,Dept #332  ,9138 Planetesimal Lane     ,Twining                  ,MI  ,48766-0000,F  ,TPCE,F ,US Govt             
+9,Greate Bay Casino                        ,Dept #242  ,4255 Depart Lane           ,Randolph Air Force Base  ,TX  ,78148-0000,F  ,TPCE,F ,US Govt             
+10,Saint Andrews Golf                       ,           ,8068 Substances Street     ,North Miami              ,FL  ,33261-0000,F  ,TPCE,F ,US Govt             
+12,Cohesant Technologies Inc                ,Dept #690  ,3334 Eggshell Circle       ,Oakley                   ,SC  ,29461-0000,F  ,TPCE,F ,US Govt             
+17,V.e.v. Sa                                ,           ,7079 Aspect Circle         ,Ross Siding              ,PA  ,17723-0000,F  ,TPCE,F ,US Govt             
+18,Scp Pool                                 ,Suite 251  ,755 Leek Street            ,Enid                     ,OK  ,73706-0000,F  ,TPCE,F ,US Govt             
+20,Labor Ready Inc                          ,Dept #759  ,4618 Days Drive            ,Waterville               ,WA  ,98858-0000,F  ,TPCE,F ,US Govt             
+23,Ligand Pharmaceuticals Inc,           ,8092 Bluest Street         ,Moorcroft                ,WY  ,82721-0000,F  ,TPCE,F ,US Govt             
+25,Liberty Homes Inc                        ,           ,3051 Bumblers Lane         ,Medon                    ,TN  ,38356-0000,F  ,TPCE,F ,US Govt             
+27,Lnr Property                             ,           ,9382 Demolition Street     ,College Square           ,IA  ,50613-0000,F  ,TPCE,F ,US Govt             
+32,Greenman Technologies Inc                ,           ,4910 Liveried Boulevard    ,Dabney                   ,IN  ,47023-0000,F  ,TPCE,F ,US Govt             
+35,Integra -- A Hotel & Restaurant Company  ,Dept #822  ,5222 Blazed Street         ,Parsons                  ,TN  ,38363-0000,F  ,TPCE,F ,US Govt             
+36,Hickory Tech                             ,Dept #633  ,11119 Periphery Turnpike   ,Simpson                  ,LA  ,71474-0000,F  ,TPCE,F ,US Govt             
+38,Seattle Filmworks                        ,           ,4958 Dietitian Street      ,Davis                    ,MO  ,63379-0000,F  ,TPCE,F ,US Govt             
+6,Fidelity National                        ,Dept #915  ,11455 Sheaf Drive          ,Anthony                  ,FL  ,32617-0000,S  ,TPCE,S ,State_Local Gov     
+13,Publishing Co Of North America Inc       ,Suite 518  ,978 Degrees Street         ,Heron Bay                ,AL  ,36523-0000,S  ,TPCE,S ,State_Local Gov     
+14,Newcor Inc                               ,Suite 401  ,8717 Involve Drive         ,Homer                    ,MI  ,49245-0000,S  ,TPCE,S ,State_Local Gov     
+19,Camera Platforms International Inc       ,           ,5347 Deposed Street        ,Houston                  ,TX  ,77244-0000,S  ,TPCE,S ,State_Local Gov     
+21,Shaw Brothers                            ,Suite 371  ,2567 Cardinal Drive        ,Whiskey Flats            ,NV  ,89415-0000,S  ,TPCE,S ,State_Local Gov     
+22,Chemfix Technologies Inc                 ,Suite 50   ,11533 Wonderingly Drive    ,Pasadena Hills           ,MO  ,63121-0000,S  ,TPCE,S ,State_Local Gov     
+28,Gte                                      ,Dept #532  ,7196 Heaver Lane           ,Winter Garden            ,FL  ,34777-0000,S  ,TPCE,S ,State_Local Gov     
+29,Usx-steel Group                          ,           ,7120 Whimsically Turnpike  ,Olympia                  ,WA  ,98501-0000,S  ,TPCE,S ,State_Local Gov     
+30,Pulitzer Publishing Company              ,Suite 277  ,126 Pathological Circle    ,Woodbury                 ,NY  ,11797-0000,S  ,TPCE,S ,State_Local Gov     
+31,Setron                                   ,Dept #80   ,3085 Breakthrough Drive    ,Hart                     ,MO  ,64865-0000,S  ,TPCE,S ,State_Local Gov     

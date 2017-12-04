@@ -1,0 +1,15 @@
+Supplier_sk,supplierID,supplierName,supplierAddr1,supplierAddr2,supplierCity,supplierState,supplierZipcode,source,Version,ExpirationDate,EffectiveDate
+1,7,Afg Industries Inc            ,Dorothy Polk              ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,TPCE,1,2200-01-01,1900-01-01
+2,8,American General Ventures Inc ,Kimberly Yarborough       ,1616 Goggles Drive    ,Sterling        ,KS,67579,TPCE,1,2200-01-01,1900-01-01
+3,3,Black Hills Corporation       ,Edena Gilbert             ,1618 Greenland Street ,Tallahassee     ,FL,32304,TPCE,1,2200-01-01,1900-01-01
+4,5,Dollar General Corporation    ,Antoinette Hickey         ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,TPCE,1,2200-01-01,1900-01-01
+5,9,Fedders Corporation           ,Virgil Hubert             ,7844 Carelessly Drive ,Overlook        ,WA,98366,TPCE,1,2200-01-01,1900-01-01
+6,6,First Bancshares Inc Mo       ,Jensine Lease             ,11885 Aural Turnpike  ,Louisville      ,KY,40253,TPCE,1,2200-01-01,1900-01-01
+7,4,Immunex Corporation           ,Elbert Glad               ,5841 Pervades Drive   ,Fairfax         ,VA,22035,TPCE,1,2200-01-01,1900-01-01
+8,10,Saurer Gruppe Holding Ag      ,Pearce Valdez             ,3727 Elms Drive       ,South Saint Paul,MN,55077,TPCE,1,2200-01-01,1900-01-01
+9,2,Sinclair Broadcast Group Inc  ,Carla Shelby              ,6037 Ecuadorian Street,Clinton         ,MI,49236,TPCE,1,2200-01-01,1900-01-01
+10,1,Specialty Teleconstructors Inc,Zylina Cox                ,2161 Chalmers Street  ,Salinas         ,CA,93905,TPCE,1,2200-01-01,1900-01-01
+11,11,TPC East                      ,,,,,,PEC,1,2200-01-01,1900-01-01
+12,12,TPC West                      ,,,,,,PEC,1,2200-01-01,1900-01-01
+13,13,PEC,,,,,,PEC,1,2200-01-01,1900-01-01
+14,,,,,,,,,,,

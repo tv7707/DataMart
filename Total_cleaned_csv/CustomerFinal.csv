@@ -1,0 +1,123 @@
+Customer_sk,Customer_id,Name,Addr1,Addr2,City,State,Zip,Typename,CustomertypeID,source,Version,EffectiveDate,ExpirationDate
+1,,,,,,,,,,,1,1900-01-01,2200-01-01
+2,3,Baxter May,,796-2366 Vel Avenue,Meriden,FL,58328-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+3,6,Raphael Allison,,734-2598 Sed Avenue,La Crosse,HI,58702-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+4,9,The Product Company (East),,20021 Barnes Road,Stratford,NY,13470-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+5,11,Austin Ferrell,,8666 Justo Road,Pullman,PA,55979-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+6,14,Serrano,,7212 Eleifend Street,Princeton,KY,66785-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+7,15,Colton Maldonado,,1869 Leo Road,Cedar Rapids,SD,97640-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+8,16,Googol,,5453 Dictum Avenue,Jenks,LA,96393-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+9,20,Pewter Gym,,9028 Non Street,Sandy,FL,87202-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+10,27,Clare Baird,,6152 Auctor,Wilson,MS,29338-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+11,29,Blevins,,2571 Donec Avenue,Winooski,SD,65512-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+12,30,Knox Reid,,500 Eu,Pass Christian,WY,35949-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+13,32,Ferengi Treasures,,716-6837 Vulputate Avenue,Paramount,NY,35644-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+14,33,Tallulah,,3376 Aliquet Street,Batavia,NM,50742-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+15,34,The Product Company (West),,21 E Bullard Avenue,Fresno,CA,93710-0000,Commercial,C,PEC,1,1900-01-01,2200-01-01
+16,1,Haynes,,2920 Auctor,Moraga,AZ,70314-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+17,7,Martin Donaldson,,2704 At Road,Gardner,GA,31421-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+18,18,Melvin House,,8371 Nullam Road,Isle of Palms,ME,89644-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+19,19,Emerson Electric Company,,1792 Squash Drive,South Texarkana,TX,75501-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+20,21,Hop Adams,,704 Nisl Road,Sun Valley,NH,84458-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+21,22,Xavier Harmon,,2285 Ante Street,Farmington,WV,16456-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+22,28,Schultz Learning,,8542 Quis Street,Spartanburg,ND,73217-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+23,31,Starfleet Academy,,3061 Donec Avenue,Canandaigua,UT,75963-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+24,38,Firstfed America Ban Corporation Inc,,5656 Settler Street,Ward Prairie,TX,75840-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+25,39,Ronan French,,8773 Feugiat Road,Gary,WA,17387-0000,Education,E,PEC,1,1900-01-01,2200-01-01
+26,2,Rudyard-Knapp,,9261 Nulla Street,Sault Ste. Marie,LA,94298-0000,State/Local Govt,S,PEC,1,1900-01-01,2200-01-01
+27,4,Maya Brewer,P.O. Box 825,,Union City,ND,82051-0000,State/Local Govt,S,PEC,1,1900-01-01,2200-01-01
+28,5,Mullins Inc,,4009 Ornare Road,Birmingham,NE,59509-0000,State/Local Govt,S,PEC,1,1900-01-01,2200-01-01
+29,10,Hammett Farley,,1668 In Street,Yonkers,AK,18651-0000,State/Local Govt,S,PEC,1,1900-01-01,2200-01-01
+30,12,Cain,,1116 Augue Street,Warwick,DC,38450-0000,State/Local Govt,S,PEC,1,1900-01-01,2200-01-01
+31,25,Atkins,,4607 Risus Road,Waukegan,NC,43147-0000,State/Local Govt,S,PEC,1,1900-01-01,2200-01-01
+32,37,Beverly Equipment,,7581 Quisque Street,Bloomington,HI,88440-0000,State/Local Govt,S,PEC,1,1900-01-01,2200-01-01
+33,40,Zena Machines,,1277 Hendrerit Avenue,San Juan,WA,07066-0000,State/Local Govt,S,PEC,1,1900-01-01,2200-01-01
+34,8,Gemma Castro,,9101 Duis Street,Passaic,VT,40926-0000,US Govt,F,PEC,1,1900-01-01,2200-01-01
+35,13,Knight,,765 Eget Avenue,Eureka,FL,57500-0000,US Govt,F,PEC,1,1900-01-01,2200-01-01
+36,17,Mallory Lynch,,974 Nisl Road,Washington,ME,15623-0000,US Govt,F,PEC,1,1900-01-01,2200-01-01
+37,23,Cross,,112 In Road,Opelousas,GA,43882-0000,US Govt,F,PEC,1,1900-01-01,2200-01-01
+38,24,Martinez Disposables,,5331 Nunc Avenue,Tucson,DC,79991-0000,US Govt,F,PEC,1,1900-01-01,2200-01-01
+39,26,Dakota Mills,,7442 Amet Avenue,Syracuse,DE,56656-0000,US Govt,F,PEC,1,1900-01-01,2200-01-01
+40,35,Ann Lee,,3845 Nunc Road,Merizo,GA,10764-0000,US Govt,F,PEC,1,1900-01-01,2200-01-01
+41,36,Kuame Barnes,,8757 Tincidunt Road,Lahaina,RI,60529-0000,US Govt,F,PEC,1,1900-01-01,2200-01-01
+42,3,YuliChem,,6440 Amet Street,Laguna Woods,KY,53141-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+43,6,Austin Ferrell,,8666 Justo Road,Pullman,PA,55979-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+44,9,Meridian Resources Company,Dept #805, 1977 Symbiotic Turnpike,Fall River,MA,02724-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+45,10,Byron Chemicals,,6831 Donec Street,Salt Lake City,IN,41050-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+46,11,Beasley,,7800 Nec Road,Idabel,MA,57132-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+47,12,Processing Equipment Company,,29843 Klingon Road,Naperville,IL,60563-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+48,15,Merritt Long,Suite 30,,West Haven,WY,83709-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+49,21,Santos LLC,,9130 Fames Road,Billings,IN,12869-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+50,28,Oleg Jones,,5491 Nec Road,Moraga,NE,82394-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+51,32,Mendoza Chem,,4826 Urna Avenue,Everett,MD,87048-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+52,38,Blevins,,2571 Donec Avenue,Winooski,SD,65512-0000,Commercial,C,TPCW,1,1900-01-01,2200-01-01
+53,4,Austin Burns,,2041 Venenatis Avenue,Alexandria,DC,34440-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+54,7,Hop Adams,,704 Nisl Road,Sun Valley,NH,84458-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+55,19,Firstfed America Ban Company,,5656 Settler Street,Ward Prairie,TX,75840-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+56,25,Garrison Works,,3801 Lacus Road,Reno,WV,46307-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+57,27,Emerson Electric Company,,1792 Squash Drive,South Texarkana,TX,75501-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+58,29,Genevieve Day,,284-1916 Ac Street,Troy,IN,68914-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+59,36,Charity Inc,,3254 Hendrerit Avenue,Effingham,WY,27502-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+60,37,Ronan French,,8773 Feugiat Road,Gary,WA,17387-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+61,39,Ashton Washington,,7726 Donec Road,Vallejo,MA,01999-0000,Education,E,TPCW,1,1900-01-01,2200-01-01
+62,1,Beverly Equipment,,7581 Quisque Street,Bloomington,HI,88440-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+63,2,Clio-Hutchinson,,1257 Ac Avenue,Butler,SC,82126-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+64,8,Mullins Inc,,4009 Ornare Road,Birmingham,NE,59509-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+65,13,Zena Machines,,1277 Hendrerit Avenue,San Juan,WA,07066-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+66,14,The Final Frontier,,528 Curabitur Road,Biddeford,MI,39683-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+67,17,Camera Platforms International Inc,,5347 Deposed Street,Houston,TX,77244-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+68,20,Price Rivers,,2853 Aenean Avenue,Sault Ste. Marie,MS,59316-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+69,22,Santiago Processing,,4565 Tempor Avenue,Hanahan,AK,15743-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+70,23,Chemfix Technologies Inc,Suite 50,,Pasadena Hills,MI,63121-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+71,24,Chantale-Huffman Inc,,2761 Infinity Street,New Iberia,NH,65327-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+72,26,Ruby Petty,,3142 Congue,Chicago,IL,76404-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+73,30,Setron,Dept #80,,Hart,MI,64865-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+74,34,Pulitzer Publishing Company,,126 Pathological Circle,Woodbury,NY,11797-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+75,40,Gte Company,Dept #532,,Winter Garden,FL,34777-0000,State/Local Govt,S,TPCW,1,1900-01-01,2200-01-01
+76,5,Saint Andrews Golf Company,,8068 Substances Street,North Miami,Fl,33261-0000,US Govt,F,TPCW,1,1900-01-01,2200-01-01
+77,16,Martinez Disposables,,5331 Nunc Avenue,Tucson,DC,79991-0000,US Govt,F,TPCW,1,1900-01-01,2200-01-01
+78,18,Cross,,6605 Rhoncus Avenue,Hopkinsville,NH,25620-0000,US Govt,F,TPCW,1,1900-01-01,2200-01-01
+79,31,Fuentes Inc,,7063 Phasellus Road,Compton,WV,68519-0000,US Govt,F,TPCW,1,1900-01-01,2200-01-01
+80,33,India-Stuart,,1973 At Avenue,Cudahy,CA,76482-0000,US Govt,F,TPCW,1,1900-01-01,2200-01-01
+81,35,Ferdinand Supply,,6979 Quis,Nome,DE,58359-0000,US Govt,F,TPCW,1,1900-01-01,2200-01-01
+82,1,Room Plus Inc,Suite 836,6037 Ecuadorian Street,Clinton,MI,49236-0000,Commercial,C,TPCE,1,1900-01-01,2200-01-01
+83,11,Synaptic Pharmaceutical ,,8072 Powerless Street,Bridgeport,IL,62417-0000,Commercial,C,TPCE,1,1900-01-01,2200-01-01
+84,15,Railamerica Inc,,576 Stew Turnpike,Mans De Navarro,PR,00778-0000,Commercial,C,TPCE,1,1900-01-01,2200-01-01
+85,16,Meridian Resources ,Dept #804,1977 Symbiotic Turnpike,Fall River,MA,02724-0000,Commercial,C,TPCE,1,1900-01-01,2200-01-01
+86,33,Polymer Group ,Suite 204,11368 Harder Drive,Maidstone,VT,05905-0000,Commercial,C,TPCE,1,1900-01-01,2200-01-01
+87,39,Pricellular ,Dept #5,10947 Eagle Street,Lisbon Falls,ME,04252-0000,Commercial,C,TPCE,1,1900-01-01,2200-01-01
+88,40,Processing Equipment ,Dept #2,29843 Klingon Road,Naperville,IL,60563-0000,Commercial,C,TPCE,1,1900-01-01,2200-01-01
+89,2,Motts Holdings ,,1618 Greenland Street,Tallahassee,FL,32304-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+90,3,Beckman Coulter ,,5841 Pervades Drive,Fairfax,VA,22035-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+91,5,Sterling Financial ,Dept #505,7258 Meriting Avenue,Portland,OR,97201-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+92,7,Fedders ,Dept #520,3311 Blatantly Circle,Santa Fe Springs,CA,90670-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+93,8,United Healthcare ,Dept #855,675 Hordes Turnpike,Malaga,NM,88263-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+94,24,Helpmate Robotics Inc,Suite 213,9711 Writers Turnpike,Saint Cloud,WI,53079-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+95,26,Firstfed America Ban,Dept #851,5656 Settler Street,Ward Prairie,TX,75840-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+96,34,Emerson Electric Company,,1792 Squash Drive,South Texarkana,TX,75501-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+97,37,Televideo ,Dept #793,939 Publishers Turnpike,Fort Hood,TX,76544-0000,Education,E,TPCE,1,1900-01-01,2200-01-01
+98,0,Specialty Teleconstructors Inc,,1570 Hordes Drive,Columbia,SC,29260-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+99,4,Magainin Pharmaceuticals Inc,Dept #332,9138 Planetesimal Lane,Twining,MI,48766-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+100,9,Greate Bay Casino ,Dept #242,4255 Depart Lane,Randolph Air Force Base,TX,78148-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+101,10,Saint Andrews Golf ,,8068 Substances Street,North Miami,FL,33261-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+102,12,Cohesant Technologies Inc,Dept #690,3334 Eggshell Circle,Oakley,SC,29461-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+103,17,V.e.v. Sa,,7079 Aspect Circle,Ross Siding,PA,17723-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+104,18,Scp Pool ,Suite 251,755 Leek Street,Enid,OK,73706-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+105,20,Labor Ready Inc,Dept #759,4618 Days Drive,Waterville,WA,98858-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+106,23,Ligand Pharmaceuticals Inc,,8092 Bluest Street,Moorcroft,WY,82721-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+107,25,Liberty Homes Inc,,3051 Bumblers Lane,Medon,TN,38356-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+108,27,Lnr Property ,,9382 Demolition Street,College Square,IA,50613-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+109,32,Greenman Technologies Inc,,4910 Liveried Boulevard,Dabney,IN,47023-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+110,35,Integra -- A Hotel & Restaurant Company,Dept #822,5222 Blazed Street,Parsons,TN,38363-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+111,36,Hickory Tech ,Dept #633,11119 Periphery Turnpike,Simpson,LA,71474-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+112,38,Seattle Filmworks ,,4958 Dietitian Street,Davis,MO,63379-0000,US Govt,F,TPCE,1,1900-01-01,2200-01-01
+113,6,Fidelity National ,Dept #915,11455 Sheaf Drive,Anthony,FL,32617-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+114,13,Publishing Co Of North America Inc,Suite 518,978 Degrees Street,Heron Bay,AL,36523-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+115,14,Newcor Inc,Suite 401,8717 Involve Drive,Homer,MI,49245-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+116,19,Camera Platforms International Inc,,5347 Deposed Street,Houston,TX,77244-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+117,21,Shaw Brothers,Suite 371,2567 Cardinal Drive,Whiskey Flats,NV,89415-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+118,22,Chemfix Technologies Inc,Suite 50,11533 Wonderingly Drive,Pasadena Hills,MO,63121-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+119,28,Gte ,Dept #532,7196 Heaver Lane,Winter Garden,FL,34777-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+120,29,Usx-steel Group ,,7120 Whimsically Turnpike,Olympia,WA,98501-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+121,30,Pulitzer Publishing Company,Suite 277,126 Pathological Circle,Woodbury,NY,11797-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
+122,31,Setron,Dept #80,3085 Breakthrough Drive,Hart,MO,64865-0000,State_Local Gov,S,TPCE,1,1900-01-01,2200-01-01
